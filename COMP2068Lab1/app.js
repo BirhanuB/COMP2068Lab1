@@ -5,3 +5,5 @@
 'use strict';
 
 console.log('Hello world');
+
+//This concludes Lab 1
